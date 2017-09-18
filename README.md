@@ -1,12 +1,6 @@
+The purpose of this project is to find out three errors from the SI507F17_project1_cards.py, and SI507F17_project1_tests.py tests the code in the SI507F17_project1_cards.py and it should find out three errors.
+
 In this repository, there are 5 files to help run this project.
-
-SI507F17_project1_cards.py
-SI507F17_project1_tests.py
-code_description_507F17project1.txt
-helper_functions.py
-requirements.txt
-
-The purpose of this project is to find our three errors from the SI507F17_project1_cards.py, and SI507F17_project1_tests.py tests the code in the SI507F17_project1_cards.py and it should find out three errors.
 
 1) code_description_507F17project1.txt
 It describes what the code should do.
@@ -21,6 +15,8 @@ This will find the three errors.
 It will let your system run the files in this repository. 
 Run pip install -r requirements.txt in your shell.
 
+5) helper_functions.py
+Helps run functions 
 
 More on the 507F17_project1_cards.py file:
 1. Classes: 1) Card 2) Deck
